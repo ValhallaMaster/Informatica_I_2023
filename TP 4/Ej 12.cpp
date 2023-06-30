@@ -10,7 +10,7 @@ int main () {
 	scanf("%s", palabra);
 	t=strlen(palabra);
 		for(k=0; k<=t; k++){
-		encriptado[k]=palabra[k]+5;
+		encriptado[k]=palabra[k]+3;
 			}
 		
 		for(k=0; k<=t; k++){
